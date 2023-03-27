@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.text{
+  margin-top: 40px;
+
+}
+.text h3{
+  color: #ccc;
+  word-spacing: 20px;
+  font-size: 25px;
+  letter-spacing: 15px ;
+}
